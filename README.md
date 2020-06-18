@@ -14,3 +14,6 @@ you can see full pipline in final-result.png
 - Build
 - Lint
 - upload to AWS
+
+# Output
+![final output](https://github.com/sabreensalama/Jenkins-Pipelines-on-AWS/blob/master/final-result.png)
